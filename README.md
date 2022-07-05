@@ -26,7 +26,7 @@
     <a href="#author">Author</a>
 </p>
 
-<h3 align="center">🚧  Not finished...  🚧</h3>
+<h3 align="center">✓ Finished ✓</h3>
 
 <div id="layout">
     <h2>Layout</h2>

@@ -1,10 +1,11 @@
 import CardArticle from '../CardArticle';
 import './style.css'
+import './../../global/responsivity.css'
 
 function DocumentMain() {
     return `
     <main>
-        <div class="main-wrapper">
+        <div class="main-wrapper" id="main-wrapper">
 
             ${CardArticle("Agora é oficial: o Windows 11 está vindo", "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, doloribus ipsa provident nobis, animi quos illum illo optio eius, molestias tempore incidunt expedita dolor dignissimos! Nesciunt ipsa eaque deleniti cumque!")}
 

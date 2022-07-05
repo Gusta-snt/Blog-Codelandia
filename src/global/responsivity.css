@@ -1,0 +1,68 @@
+@media only screen and (max-width: 925px){
+
+    /*Header responsivity*/
+
+    #header {
+        height: 200px;
+    }
+
+    .title-page {
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+        margin-top: 48px;
+    }
+
+    #header-wrapper {
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+
+    #input-wrapper {
+        margin-bottom: 48px;
+    }
+
+    #search-input {
+        height: 40px;
+        font-size: 1.4rem;
+        line-height: 1.7rem;
+        padding-left: 38px;
+    }
+
+    i {
+        top: 30px;
+        left: 11px;
+    }
+
+    #search-icon {
+        width: 15.6px;
+    }
+
+    /*Main responsivity*/
+
+    #main-wrapper {
+        margin: 50px 25px;
+        gap: 25px;
+    }
+
+    #card {
+        padding: 15px;
+    }
+
+    #date, #body {
+        font-size: 1.4rem;
+        line-height: 2.6rem;
+    }
+
+    #title {
+        margin-top: 27px;
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+    }
+
+    .icon {
+        width: 19px;
+    }
+
+
+
+}
